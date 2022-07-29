@@ -49,7 +49,8 @@ The trend in the above barplot shows the higher the hospital rating the lower th
 The above graph is a stripplot of hip and knee procedure costs and the type of facility based on the procedure's quality compared to the national average. Most hospitals no matter the type have a average rating of 2, which is average compared to the national average. There also appears to be a few more 1 rated, or below average rated government hospitals as compared to the others.
 
 
-**Model:**
+
+***Model:***
 
 The accuracy of the KNN model without changing hyperparameters was 44.8%, this is the amount of variation that can be explained by the model's inputs or features. This reflects a very poor model. Adjusting to find the best k value slightly increased it's performance to 46% for the test set for a k value of 14. Accuracy with PCA decreased the model's ability to make predictions. The model can only explain 44.8% of the variance. The confusion matrix also showed an overall low correlation ability. It can successfully predict hospitals with no ratings and it has a better than average success of predicting hospitals with an average rating of 3.
 
@@ -60,12 +61,12 @@ In the random forest model, I first tried tuning via loop to loop to review an u
 However, even the best performing model here was not very good. The accuracy of the model to predict a hospital's rating is just too low to be considered for production. In addition, the training accuracy scores tended to be a lot higher than the testing scores which is a sign of over-fitting. Overfitting is definitely an issue as it suggests the model has too much noise and will not be able to decipher new data in an efficient and accurate manner.
 
 
-**Limitations & Next Steps:**
+***Limitations & Next Steps:***
 
 Other features not considered in the dataset may have a stronger correleation to a hospital's rating. There were also too many hospitals with no rating. The 0 rating can account for about 20-25% of the dataset.
 
 
 
-**For further information:**
+***For Further Information:***
 
 For any additional questions, please contact abate.senait@gmail.com
