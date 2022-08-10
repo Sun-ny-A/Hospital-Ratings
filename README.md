@@ -28,12 +28,12 @@ The target was overall rating. Overall rating is an ordinal feature on a scale o
 ***Results:***
 
 
-![image](https://user-images.githubusercontent.com/105686944/181847811-9308a380-07d2-48d7-96be-52b71d74e6e6.png)
+![image](https://user-images.githubusercontent.com/105686944/184013289-6752a7c5-4b35-4cc0-9c9f-b4ffe0b5097f.png)
 
 Heart failure costs are slightly higher than heart attack costs at 4 and 3 rated hospitals. Heart attack costs are higher than heart failure costs at 1 rated hospitals. In general, heart failure and heart attack costs decrease the higher the hospital rating. 
 
 
-![image](https://user-images.githubusercontent.com/105686944/181847839-7f277bcc-48f1-4cbe-af53-8d0c9557428b.png)
+![image](https://user-images.githubusercontent.com/105686944/184013427-d3bec044-8406-42fd-a50a-d2b317375e46.png)
 
 The trend in the above barplot shows the higher the hospital rating the lower the costs for pneumonia procedures while costs for hip and knee procedures fluctuate more with a average rating of 3 having the least cost.
 
