@@ -37,7 +37,7 @@ Heart failure costs are slightly higher than heart attack costs at 4 and 3 rated
 The trend in the above barplot shows the higher the hospital rating the lower the costs for pneumonia procedures while costs for hip and knee procedures fluctuate more with a average rating of 3 having the least cost.
 
 
-![newplot](https://user-images.githubusercontent.com/105686944/183522280-48847910-220b-44a7-800c-2d392efd2bf9.png)
+![image](https://user-images.githubusercontent.com/105686944/184040671-12b2f97e-ec04-45ef-af64-8da995ad68d7.png)
 
 
 Almost half of the hosptial information collected are from private hospitals. The second most type of hospital is an almost equal distribution of government and proprietary hospitals. Church hospitals and those with unknown facility type are the least sampled.   
